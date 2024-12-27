@@ -4,16 +4,17 @@
 
 ### Admin Dashboard
 
-![[Screenshot 2024-12-27 212300.png]]
+![Screenshot 2024-12-27 212300](https://github.com/user-attachments/assets/339d625a-ca31-48e2-aaaf-46892f429ae8)
+
 ### Customer Homepage
+![Screenshot 2024-12-27 212249](https://github.com/user-attachments/assets/9a22bea9-2cca-4b84-8c09-1362ebbb3d59)
 
-![[Screenshot 2024-12-27 212249.png]]
 ### Cart
+![Screenshot 2024-12-27 212542](https://github.com/user-attachments/assets/353332b3-c9de-410b-99aa-5ca71ae6e36b)
 
-![[Screenshot 2024-12-27 212542.png]]
 ### Track Orders
+![Screenshot 2024-12-27 212313](https://github.com/user-attachments/assets/827034db-28b9-49f1-bad4-1352ee849480)
 
-![[Screenshot 2024-12-27 212313.png]]
 ## FUNCTIONS
 
 ## Customer
